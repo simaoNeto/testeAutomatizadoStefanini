@@ -1,5 +1,7 @@
 # testeAutomatizadoStefanini
 
+# Link do report dos cenários de testes aplicados: https://simaoneto.github.io/reportStefanini/
+
 CRITÉRIOS DE ACEITE
 
 #CENARIO 01
