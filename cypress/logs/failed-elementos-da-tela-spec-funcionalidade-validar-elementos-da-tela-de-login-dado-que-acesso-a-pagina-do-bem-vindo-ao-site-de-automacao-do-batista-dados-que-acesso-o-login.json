@@ -1,0 +1,12 @@
+{
+  "specName": "elementos_da_tela_spec.js",
+  "title": "Dados que acesso o login.",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  Dados que acesso o login.",
+  "testError": "`cy.type()` cannot accept an empty string. You need to actually type something.",
+  "testCommands": [
+    "visit http://prova.stefanini-jgr.com.br/teste/qa/",
+    "get input#name",
+    "type "
+  ]
+}

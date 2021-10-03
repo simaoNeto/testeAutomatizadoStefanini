@@ -1,0 +1,10 @@
+{
+  "specName": "elementos_da_tela_specs.js",
+  "title": "Então devo visualizar as opções Criar Usuário e Lista de Usuários",
+  "suiteName": "Funcionalidade: Validando elementos da tela de login",
+  "testName": "Funcionalidade: Validando elementos da tela de login Então devo visualizar as opções Criar Usuário e Lista de Usuários",
+  "testError": "Timed out retrying after 4000ms: Expected to find element: `input#name`, but never found it.",
+  "testCommands": [
+    "get input#name"
+  ]
+}

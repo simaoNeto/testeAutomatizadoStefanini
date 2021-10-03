@@ -1,0 +1,15 @@
+{
+  "specName": "senhaComMenosCaracteres_spec.js",
+  "title": "Então visualizo os campo Nome, Email, Senha e botão Cadastrar.",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  Então visualizo os campo Nome, Email, Senha e botão Cadastrar.",
+  "testError": "`cy.task('failed')` failed with the following error:\n\nThe 'task' event has not been registered in the plugins file. You must register it before using cy.task()\n\nFix this in your plugins file here:\nC:\\cypress\\cypress\\plugins\\index.js",
+  "testCommands": [
+    "visit http://prova.stefanini-jgr.com.br/teste/qa/",
+    "get input#name",
+    "type Manoel Silva",
+    "writeFile cypress/logs/failed-funcionalidade-validar-elementos-da-tela-de-login-dado-que-acesso-a-pagina-do-bem-vindo-ao-site-de-automacao-do-batista-entao-visualizo-os-campo-nome-email-senha-e-botao-cadastrar.json",
+    "log saved failed test information to failed-funcionalidade-validar-elementos-da-tela-de-login-dado-que-acesso-a-pagina-do-bem-vindo-ao-site-de-automacao-do-batista-entao-visualizo-os-campo-nome-email-senha-e-botao-cadastrar.json",
+    "task failed, Object{7}, {log: false}"
+  ]
+}

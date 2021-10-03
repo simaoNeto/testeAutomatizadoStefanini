@@ -1,0 +1,14 @@
+{
+  "specName": "errosDeTela_spec.js",
+  "title": "Então visualizo os campo Nome, Email, Senha e botão Cadastrar.",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  Então visualizo os campo Nome, Email, Senha e botão Cadastrar.",
+  "testError": "Timed out retrying after 4000ms: expected '[ <p.error>, 2 more... ]' to contain text 'O Nome é obrigatório.', but the text was 'O campo Nome é obrigatório.O campo E-mail é obrigatório.O campo Senha é obrigatório.'",
+  "testCommands": [
+    "visit http://prova.stefanini-jgr.com.br/teste/qa/",
+    "get button#register",
+    "click ",
+    "get p.error",
+    "assert expected **[ <p.error>, 2 more... ]** to contain text **O Nome é obrigatório.**, but the text was **O campo Nome é obrigatório.O campo E-mail é obrigatório.O campo Senha é obrigatório.**"
+  ]
+}

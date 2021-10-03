@@ -1,0 +1,10 @@
+{
+  "specName": "elementosDaTela_spec.js",
+  "title": "Então a tabela de usuários não é apresentada. ",
+  "suiteName": "Funcionalidade: Validar elementos da tela de login",
+  "testName": "Funcionalidade: Validar elementos da tela de login Então a tabela de usuários não é apresentada. ",
+  "testError": "Timed out retrying after 4000ms: Expected to find element: `input#name`, but never found it.",
+  "testCommands": [
+    "get input#name"
+  ]
+}

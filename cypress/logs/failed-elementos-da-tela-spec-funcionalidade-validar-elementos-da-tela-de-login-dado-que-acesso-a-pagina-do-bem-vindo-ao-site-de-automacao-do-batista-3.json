@@ -1,0 +1,8 @@
+{
+  "specName": "elementos_da_tela_spec.js",
+  "title": "3",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  3",
+  "testError": "cy.verificacaoTabelaUsuarios is not a function",
+  "testCommands": []
+}

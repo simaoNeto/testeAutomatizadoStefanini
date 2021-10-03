@@ -1,0 +1,10 @@
+{
+  "specName": "",
+  "title": "3",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  3",
+  "testError": "Cypress command timeout of `4000ms` exceeded.",
+  "testCommands": [
+    "get input#name"
+  ]
+}

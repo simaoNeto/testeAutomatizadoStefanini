@@ -1,0 +1,10 @@
+{
+  "specName": "errosDeTela_spec.js",
+  "title": "3",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  3",
+  "testError": "Timed out retrying after 4000ms: Expected to find element: `input#name`, but never found it.",
+  "testCommands": [
+    "get input#name"
+  ]
+}

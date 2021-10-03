@@ -1,0 +1,12 @@
+{
+  "specName": "formulario_spec.js",
+  "title": "E clico em “Formulário” ",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Formulário Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  E clico em “Formulário” ",
+  "testError": "Timed out retrying after 4000ms: Expected to find element: `.orange-text`, but never found it.\n\nBecause this error occurred during a `before each` hook we are skipping the remaining tests in the current suite: `Dado que acesso a página do...`",
+  "testCommands": [
+    "visit http://prova.stefanini-jgr.com.br/teste/qa/",
+    "get .orange-text",
+    "assert expected **.orange-text** to have text **Bem vindo ao Site de Automação do Batista.**, but the text was **''**"
+  ]
+}

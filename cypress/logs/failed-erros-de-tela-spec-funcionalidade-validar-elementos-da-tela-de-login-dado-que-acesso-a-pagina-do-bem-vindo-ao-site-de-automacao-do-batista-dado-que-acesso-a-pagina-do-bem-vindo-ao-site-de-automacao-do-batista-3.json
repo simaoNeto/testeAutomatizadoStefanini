@@ -1,0 +1,10 @@
+{
+  "specName": "errosDeTela_spec.js",
+  "title": "3",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  3",
+  "testError": "cy.cadastroDeUsuario is not a function",
+  "testCommands": [
+    "visit http://prova.stefanini-jgr.com.br/teste/qa/"
+  ]
+}

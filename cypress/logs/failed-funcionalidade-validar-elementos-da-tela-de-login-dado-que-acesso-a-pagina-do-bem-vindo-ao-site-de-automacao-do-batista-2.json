@@ -1,0 +1,27 @@
+{
+  "specName": "",
+  "title": "2",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  2",
+  "testError": "Cypress command timeout of `4000ms` exceeded.",
+  "testCommands": [
+    "get input#name",
+    "type João Barros",
+    "get button#register",
+    "click ",
+    "get p.error",
+    "assert expected **[ <p.error>, 1 more... ]** not to contain text **O campo Nome é obrigatório.**",
+    "get input#email",
+    "type joaobarros@gmail.com",
+    "get button#register",
+    "click ",
+    "get p.error",
+    "assert expected **<p.error>** not to contain text **O campo E-mail é obrigatório.**",
+    "get input#password",
+    "type 12345678",
+    "get button#register",
+    "click ",
+    "get p.error",
+    "assert expected **p.error** not to contain text **O campo Senha é obrigatório.**"
+  ]
+}

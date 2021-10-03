@@ -1,0 +1,26 @@
+{
+  "specName": "",
+  "title": "Então visualizo os campo Nome, Email, Senha e botão Cadastrar.",
+  "suiteName": "Dado que acesso a página do Bem vindo ao Site de Automação do Batista. ",
+  "testName": "Funcionalidade: Validar elementos da tela de login Dado que acesso a página do Bem vindo ao Site de Automação do Batista.  Então visualizo os campo Nome, Email, Senha e botão Cadastrar.",
+  "testError": "Cypress command timeout of `4050ms` exceeded.",
+  "testCommands": [
+    "visit http://prova.stefanini-jgr.com.br/teste/qa/",
+    "get input#name",
+    "type Maria Regina Rodrigues",
+    "get input#email",
+    "type Lima@hotmail.com",
+    "get input#password",
+    "type 11232551241",
+    "get button#register",
+    "click ",
+    "get input#name",
+    "type Pedro Jose Pereira",
+    "get input#email",
+    "type Renato@hotmail.com",
+    "get input#password",
+    "type 11232551241",
+    "get button#register",
+    "click "
+  ]
+}
